@@ -1,0 +1,26 @@
+D:\Basthian Alfayet\All SC\Karyawan\Karyawan\bin\Debug\Karyawan.exe.config
+D:\Basthian Alfayet\All SC\Karyawan\Karyawan\bin\Debug\Karyawan.exe
+D:\Basthian Alfayet\All SC\Karyawan\Karyawan\bin\Debug\Karyawan.pdb
+D:\Basthian Alfayet\All SC\Karyawan\Karyawan\bin\Debug\Karyawan.xml
+D:\Basthian Alfayet\All SC\Karyawan\Karyawan\obj\Debug\Karyawan.vbproj.AssemblyReference.cache
+D:\Basthian Alfayet\All SC\Karyawan\Karyawan\obj\Debug\Karyawan.Form1.resources
+D:\Basthian Alfayet\All SC\Karyawan\Karyawan\obj\Debug\Karyawan.Form2.resources
+D:\Basthian Alfayet\All SC\Karyawan\Karyawan\obj\Debug\Karyawan.Resources.resources
+D:\Basthian Alfayet\All SC\Karyawan\Karyawan\obj\Debug\Karyawan.vbproj.GenerateResource.cache
+D:\Basthian Alfayet\All SC\Karyawan\Karyawan\obj\Debug\Karyawan.vbproj.CoreCompileInputs.cache
+D:\Basthian Alfayet\All SC\Karyawan\Karyawan\obj\Debug\Karyawan.exe
+D:\Basthian Alfayet\All SC\Karyawan\Karyawan\obj\Debug\Karyawan.xml
+D:\Basthian Alfayet\All SC\Karyawan\Karyawan\obj\Debug\Karyawan.pdb
+D:\Basthian Alfayet\All SC\All SC\Karyawan\Karyawan\bin\Debug\Karyawan.exe.config
+D:\Basthian Alfayet\All SC\All SC\Karyawan\Karyawan\bin\Debug\Karyawan.exe
+D:\Basthian Alfayet\All SC\All SC\Karyawan\Karyawan\bin\Debug\Karyawan.pdb
+D:\Basthian Alfayet\All SC\All SC\Karyawan\Karyawan\bin\Debug\Karyawan.xml
+D:\Basthian Alfayet\All SC\All SC\Karyawan\Karyawan\obj\Debug\Karyawan.vbproj.AssemblyReference.cache
+D:\Basthian Alfayet\All SC\All SC\Karyawan\Karyawan\obj\Debug\Karyawan.Form1.resources
+D:\Basthian Alfayet\All SC\All SC\Karyawan\Karyawan\obj\Debug\Karyawan.Form2.resources
+D:\Basthian Alfayet\All SC\All SC\Karyawan\Karyawan\obj\Debug\Karyawan.Resources.resources
+D:\Basthian Alfayet\All SC\All SC\Karyawan\Karyawan\obj\Debug\Karyawan.vbproj.GenerateResource.cache
+D:\Basthian Alfayet\All SC\All SC\Karyawan\Karyawan\obj\Debug\Karyawan.vbproj.CoreCompileInputs.cache
+D:\Basthian Alfayet\All SC\All SC\Karyawan\Karyawan\obj\Debug\Karyawan.exe
+D:\Basthian Alfayet\All SC\All SC\Karyawan\Karyawan\obj\Debug\Karyawan.xml
+D:\Basthian Alfayet\All SC\All SC\Karyawan\Karyawan\obj\Debug\Karyawan.pdb
